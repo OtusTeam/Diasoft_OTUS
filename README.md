@@ -12,8 +12,9 @@
 11) [«Клиент TELNET»](./hw11_telnet_client)
 12) [«Заготовка сервиса Календарь»](hw12_13_14_15_16_calendar/docs/12_README.md)
 13) [«API к Календарю»](hw12_13_14_15_16_calendar/docs/13_README.md)
-14) [«Кроликизация Календаря»](hw12_13_14_15_16_calendar/docs/14_README.md)
+14) [«Интеграция Apache Kafka в Календарь»](hw12_13_14_15_16_calendar/docs/14_README.md)
 15) [«Докеризация и интеграционное тестирование Календаря»](hw12_13_14_15_16_calendar/docs/15_README.md)
+15) [«Мониторинг Календаря»](hw12_13_14_15_16_calendar/docs/16_README.md)
 16) [«Проект»](https://github.com/OtusGolang/final_project)
 
 ---
